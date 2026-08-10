@@ -32,9 +32,10 @@
       "camera": {
         "type": "perspective",
         "xr": {
-          "desktop": "3D",
-          "xrCameraType": "3dOnly",
-          "headset": "disabled"
+          "desktop": "disabled",
+          "xrCameraType": "world",
+          "headset": "disabled",
+          "phone": "AR"
         }
       },
       "components": {},
@@ -43,12 +44,12 @@
       "material": null,
       "name": "Camera",
       "position": [
-        0,
-        2,
-        3
+        -0.0834785606074851,
+        0.43856779917686706,
+        0.28325802237174535
       ],
       "rotation": [
-        0.0004436887233141012,
+        0.00044368872331410124,
         0.9659425615285845,
         -0.25875089860082223,
         0.0016563336561801576
@@ -93,24 +94,24 @@
     "ee88eb39-b65a-495a-826a-2c277f0744da": {
       "id": "ee88eb39-b65a-495a-826a-2c277f0744da",
       "position": [
-        0,
-        0,
-        0
+        0.16855896883585308,
+        -0.18796206388974893,
+        -4.1735962217292794e-17
       ],
       "rotation": [
+        -0.7071067811865475,
         0,
         0,
-        0,
-        1
+        0.7071067811865476
       ],
       "scale": [
-        1,
-        1,
-        1
+        0.23758330584707288,
+        0.23758330584707288,
+        0.2375833058470729
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "09a64c51-874b-498f-b877-f9b5d3025f64",
       "components": {},
       "gltfModel": {
         "src": {
@@ -122,6 +123,34 @@
       },
       "name": "modelNyx.glb",
       "order": 2.8597319698213317
+    },
+    "09a64c51-874b-498f-b877-f9b5d3025f64": {
+      "id": "09a64c51-874b-498f-b877-f9b5d3025f64",
+      "position": [
+        -0.24274957546797804,
+        0,
+        0
+      ],
+      "rotation": [
+        0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Objetivo de la imagen",
+      "imageTarget": {
+        "name": "TARJET_PROFESIONAL.jpg"
+      },
+      "order": 4.698203344008017
     }
   },
   "spaces": {
