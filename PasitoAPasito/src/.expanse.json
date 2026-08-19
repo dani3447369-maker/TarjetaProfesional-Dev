@@ -91,39 +91,6 @@
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "order": 0.6644431107322474
     },
-    "ee88eb39-b65a-495a-826a-2c277f0744da": {
-      "id": "ee88eb39-b65a-495a-826a-2c277f0744da",
-      "position": [
-        -0.09572833217604504,
-        -0.2135539498899318,
-        4.741850243348984e-17
-      ],
-      "rotation": [
-        0.7071067811865475,
-        0,
-        0,
-        0.7071067811865476
-      ],
-      "scale": [
-        0.23758330584707288,
-        0.23758330584707288,
-        0.2375833058470729
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "09a64c51-874b-498f-b877-f9b5d3025f64",
-      "components": {},
-      "gltfModel": {
-        "src": {
-          "type": "asset",
-          "asset": "assets/modelNyx.glb"
-        },
-        "animationClip": "",
-        "loop": true
-      },
-      "name": "modelNyx.glb",
-      "order": 3.0859250229974844
-    },
     "09a64c51-874b-498f-b877-f9b5d3025f64": {
       "id": "09a64c51-874b-498f-b877-f9b5d3025f64",
       "position": [
@@ -151,6 +118,39 @@
         "name": "TARJET_PROFESIONAL.jpg_cropped"
       },
       "order": 4.698203344008017
+    },
+    "f56ecb09-83b8-4460-8395-2b8871462909": {
+      "id": "f56ecb09-83b8-4460-8395-2b8871462909",
+      "position": [
+        -0.10283019407544142,
+        -0.1848007023319992,
+        -0.003957926336401061
+      ],
+      "rotation": [
+        0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.3386861987993583,
+        0.291254254715033,
+        0.4393204648651923
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "09a64c51-874b-498f-b877-f9b5d3025f64",
+      "components": {},
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/animacionesNyx.glb"
+        },
+        "animationClip": "SATSA",
+        "loop": true
+      },
+      "name": "animacionesNyx.glb",
+      "order": 1.7026605668104775
     }
   },
   "spaces": {
