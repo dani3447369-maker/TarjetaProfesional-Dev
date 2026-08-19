@@ -216,7 +216,18 @@
       "geometry": null,
       "material": null,
       "parentId": "09a64c51-874b-498f-b877-f9b5d3025f64",
-      "components": {},
+      "components": {
+        "3e655304-887c-4cec-a407-4ccbfac11011": {
+          "id": "3e655304-887c-4cec-a407-4ccbfac11011",
+          "name": "pausar-video",
+          "parameters": {
+            "modelEntity": {
+              "type": "entity",
+              "id": "f56ecb09-83b8-4460-8395-2b8871462909"
+            }
+          }
+        }
+      },
       "ui": {
         "type": "3d",
         "width": 100,
