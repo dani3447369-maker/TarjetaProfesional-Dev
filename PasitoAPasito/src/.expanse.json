@@ -115,9 +115,10 @@
       "components": {},
       "name": "Objetivo de la imagen",
       "imageTarget": {
-        "name": "TARJET_PROFESIONAL.jpg-1"
+        "name": "TARJET_PROFESIONAL.jpg"
       },
-      "order": 4.698203344008017
+      "order": 4.698203344008017,
+      "hidden": false
     },
     "f56ecb09-83b8-4460-8395-2b8871462909": {
       "id": "f56ecb09-83b8-4460-8395-2b8871462909",

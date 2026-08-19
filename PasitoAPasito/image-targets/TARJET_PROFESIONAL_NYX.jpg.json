@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 196,
+    "left": 0,
+    "width": 603,
+    "height": 804,
+    "isRotated": true,
+    "originalWidth": 1200,
+    "originalHeight": 1200
+  },
+  "imagePath": "image-targets/TARJET_PROFESIONAL_NYX.jpg_luminance.jpg",
+  "metadata": null,
+  "name": "TARJET_PROFESIONAL_NYX.jpg",
+  "resources": {
+    "originalImage": "TARJET_PROFESIONAL_NYX.jpg_original.jpg",
+    "croppedImage": "TARJET_PROFESIONAL_NYX.jpg_cropped.jpg",
+    "thumbnailImage": "TARJET_PROFESIONAL_NYX.jpg_thumbnail.jpg",
+    "luminanceImage": "TARJET_PROFESIONAL_NYX.jpg_luminance.jpg"
+  },
+  "created": 1787133690398,
+  "updated": 1787133882714
+}
