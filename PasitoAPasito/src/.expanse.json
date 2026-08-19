@@ -94,7 +94,7 @@
     "09a64c51-874b-498f-b877-f9b5d3025f64": {
       "id": "09a64c51-874b-498f-b877-f9b5d3025f64",
       "position": [
-        -0.24274957546797804,
+        0,
         0,
         0
       ],
@@ -115,7 +115,7 @@
       "components": {},
       "name": "Objetivo de la imagen",
       "imageTarget": {
-        "name": "TARJET_PROFESIONAL.jpg_cropped"
+        "name": "TARJET_PROFESIONAL.jpg-1"
       },
       "order": 4.698203344008017
     },
