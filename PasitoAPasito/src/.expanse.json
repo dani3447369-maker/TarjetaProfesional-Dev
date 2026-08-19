@@ -189,7 +189,10 @@
       "name": "Video",
       "order": 3.2351777157910777,
       "videoControls": {
-        "loop": true
+        "loop": true,
+        "paused": false,
+        "positional": false,
+        "volume": 1
       }
     },
     "4e99adae-8c24-4a32-88b3-efa5525c6e82": {
