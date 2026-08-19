@@ -94,9 +94,9 @@
     "ee88eb39-b65a-495a-826a-2c277f0744da": {
       "id": "ee88eb39-b65a-495a-826a-2c277f0744da",
       "position": [
-        0.17662239904308535,
-        -0.15739064629743435,
-        3.494774387600915e-17
+        -0.09572833217604504,
+        -0.2135539498899318,
+        4.741850243348984e-17
       ],
       "rotation": [
         0.7071067811865475,
@@ -148,7 +148,7 @@
       "components": {},
       "name": "Objetivo de la imagen",
       "imageTarget": {
-        "name": "TARJET_PROFESIONAL.jpg"
+        "name": "TARJET_PROFESIONAL.jpg_cropped"
       },
       "order": 4.698203344008017
     }
