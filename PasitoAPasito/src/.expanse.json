@@ -44,15 +44,15 @@
       "material": null,
       "name": "Camera",
       "position": [
-        -0.0834785606074851,
-        0.43856779917686706,
-        0.28325802237174535
+        0.061319697220170666,
+        0.39223487743792906,
+        1.677663842504668
       ],
       "rotation": [
-        0.00044368872331410124,
-        0.9659425615285845,
-        -0.25875089860082223,
-        0.0016563336561801576
+        -1.857941590238972e-33,
+        1,
+        -3.0342488814449085e-17,
+        6.123233995736766e-17
       ],
       "scale": [
         1,
@@ -123,7 +123,7 @@
     "f56ecb09-83b8-4460-8395-2b8871462909": {
       "id": "f56ecb09-83b8-4460-8395-2b8871462909",
       "position": [
-        -0.10283019407544142,
+        0.0146368335819268,
         -0.1848007023319992,
         -0.003957926336401061
       ],
@@ -151,7 +151,318 @@
         "loop": true
       },
       "name": "animacionesNyx.glb",
-      "order": 1.7026605668104775
+      "order": 1.465908875764622
+    },
+    "521fce08-1e86-41dd-a964-18c7cf9064f2": {
+      "id": "521fce08-1e86-41dd-a964-18c7cf9064f2",
+      "position": [
+        0,
+        -1.6653345369377348e-16,
+        -0.03182648521076359
+      ],
+      "rotation": [
+        -3.7658427489255825e-16,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.01971253843626,
+        0.35820549499327325,
+        0.8144802211751276
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/DJ_CONTEST_HELLGATE_-_GLTCH_RDE_EDITION_CALLING_THE_NEXT_WAVE_OF_SONIC_GLTCH_______.mp4"
+        }
+      },
+      "parentId": "4e99adae-8c24-4a32-88b3-efa5525c6e82",
+      "components": {},
+      "name": "Video",
+      "order": 3.2351777157910777,
+      "videoControls": {
+        "loop": true,
+        "paused": false,
+        "positional": false,
+        "volume": 1
+      }
+    },
+    "4e99adae-8c24-4a32-88b3-efa5525c6e82": {
+      "id": "4e99adae-8c24-4a32-88b3-efa5525c6e82",
+      "position": [
+        0,
+        0.4531719060939378,
+        0.6408804547690579
+      ],
+      "rotation": [
+        0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1.2561076122376322,
+        3.5757929449072208,
+        1.572620977800928
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "09a64c51-874b-498f-b877-f9b5d3025f64",
+      "components": {
+        "3e655304-887c-4cec-a407-4ccbfac11011": {
+          "id": "3e655304-887c-4cec-a407-4ccbfac11011",
+          "name": "pausar-video",
+          "parameters": {
+            "modelEntity": {
+              "type": "entity",
+              "id": "f56ecb09-83b8-4460-8395-2b8871462909"
+            }
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "opacity": 0
+      },
+      "name": "Button",
+      "order": 2.3757835363785276
+    },
+    "391d5707-15e6-4c5d-a21b-ecb26829f821": {
+      "id": "391d5707-15e6-4c5d-a21b-ecb26829f821",
+      "position": [
+        -0.49840478631827156,
+        0.44917501271166105,
+        1.1584906768907888
+      ],
+      "rotation": [
+        0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "09a64c51-874b-498f-b877-f9b5d3025f64",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 0,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center"
+      },
+      "name": "Button",
+      "order": 2.8039001753385686
+    },
+    "39751407-cd7d-43f6-a1e3-7791d31d7bdb": {
+      "id": "39751407-cd7d-43f6-a1e3-7791d31d7bdb",
+      "position": [
+        -0.323,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "391d5707-15e6-4c5d-a21b-ecb26829f821",
+      "components": {},
+      "name": "Iconono IG",
+      "ui": {
+        "width": 16,
+        "height": 16,
+        "image": {
+          "type": "asset",
+          "asset": "assets/lOGO_IG_nyx.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "order": 0.36313037041070934
+    },
+    "e6e0fa98-5f92-4b10-93ba-c76401f5ab73": {
+      "id": "e6e0fa98-5f92-4b10-93ba-c76401f5ab73",
+      "position": [
+        -0.5035079466893198,
+        0.44917501271166094,
+        0.7341537342562313
+      ],
+      "rotation": [
+        0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1.1000000000000003,
+        1.1000000000000003,
+        1.1000000000000003
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "09a64c51-874b-498f-b877-f9b5d3025f64",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 0,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center"
+      },
+      "name": "Button H",
+      "order": 3.6601334532586494
+    },
+    "5aee4aae-2c05-4ee7-a2b8-194d0bad0112": {
+      "id": "5aee4aae-2c05-4ee7-a2b8-194d0bad0112",
+      "position": [
+        -0.323,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "e6e0fa98-5f92-4b10-93ba-c76401f5ab73",
+      "components": {},
+      "name": "Icono URL O W",
+      "ui": {
+        "width": 16,
+        "height": 16,
+        "image": {
+          "type": "asset",
+          "asset": "assets/LOGOHELL.jpg"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "order": 0.36313037041070934
+    },
+    "98f929d7-dda2-4c50-bed4-a3ea4bc9b0b7": {
+      "id": "98f929d7-dda2-4c50-bed4-a3ea4bc9b0b7",
+      "position": [
+        -0.5056093848025782,
+        0.449175012711661,
+        0.9414576297219983
+      ],
+      "rotation": [
+        0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "09a64c51-874b-498f-b877-f9b5d3025f64",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 0,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center"
+      },
+      "name": "Button IG",
+      "order": 3.232016814298609
+    },
+    "3c1302bf-4e85-4966-9204-3a0c20e506bb": {
+      "id": "3c1302bf-4e85-4966-9204-3a0c20e506bb",
+      "position": [
+        -0.323,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "98f929d7-dda2-4c50-bed4-a3ea4bc9b0b7",
+      "components": {},
+      "name": "Icono IG2",
+      "ui": {
+        "width": 16,
+        "height": 16,
+        "image": {
+          "type": "asset",
+          "asset": "assets/lOGO_IG_nyx.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "order": 0.36313037041070934
     }
   },
   "spaces": {
