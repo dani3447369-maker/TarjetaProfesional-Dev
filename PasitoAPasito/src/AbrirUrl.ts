@@ -11,7 +11,7 @@ ecs.registerComponent({
       .listen(eid, ecs.input.UI_CLICK, () => {
         const schema = schemaAttribute.cursor(eid)
         if (schema.url) {
-          window.open(schema.url, '_blank')
+          window.location.href = schema.url
         } else {
           console.warn('abrir-url: no se definió una URL en el inspector')
         }
