@@ -1,10 +1,17 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 195,
-    "left": 7,
-    "width": 602,
-    "height": 802,
+<<<<<<< HEAD
+    "top": 0,
+    "left": 142,
+    "width": 900,
+    "height": 1200,
+=======
+    "top": 197,
+    "left": 3,
+    "width": 600,
+    "height": 800,
+>>>>>>> 7f0a0c35f03502ed5c4cf0b58b8c069aa9b39daa
     "isRotated": true,
     "originalWidth": 1200,
     "originalHeight": 1200
@@ -18,6 +25,11 @@
     "thumbnailImage": "TARJET_PROFESIONAL.jpg_thumbnail.jpg",
     "luminanceImage": "TARJET_PROFESIONAL.jpg_luminance.jpg"
   },
-  "created": 1787186646911,
-  "updated": 1787186667746
+<<<<<<< HEAD
+  "created": 1787134687582,
+  "updated": 1787134972703
+=======
+  "created": 1787148064600,
+  "updated": 1787148103329
+>>>>>>> 7f0a0c35f03502ed5c4cf0b58b8c069aa9b39daa
 }
