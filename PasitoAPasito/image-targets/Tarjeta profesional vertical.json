@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 278,
+    "left": 181,
+    "width": 480,
+    "height": 640,
+    "isRotated": false,
+    "originalWidth": 842,
+    "originalHeight": 1191
+  },
+  "imagePath": "image-targets/Tarjeta profesional vertical_luminance.jpg",
+  "metadata": null,
+  "name": "Tarjeta profesional vertical",
+  "resources": {
+    "originalImage": "Tarjeta profesional vertical_original.jpg",
+    "croppedImage": "Tarjeta profesional vertical_cropped.jpg",
+    "thumbnailImage": "Tarjeta profesional vertical_thumbnail.jpg",
+    "luminanceImage": "Tarjeta profesional vertical_luminance.jpg"
+  },
+  "created": 1787205102784,
+  "updated": 1787205111710
+}
