@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 142,
+    "width": 900,
+    "height": 1200,
+    "isRotated": true,
+    "originalWidth": 1200,
+    "originalHeight": 1200
+  },
+  "imagePath": "image-targets/TARJET_PROFESIONAL.jpg_luminance.jpg",
+  "metadata": null,
+  "name": "TARJET_PROFESIONAL.jpg",
+  "resources": {
+    "originalImage": "TARJET_PROFESIONAL.jpg_original.jpg",
+    "croppedImage": "TARJET_PROFESIONAL.jpg_cropped.jpg",
+    "thumbnailImage": "TARJET_PROFESIONAL.jpg_thumbnail.jpg",
+    "luminanceImage": "TARJET_PROFESIONAL.jpg_luminance.jpg"
+  },
+  "created": 1787134687582,
+  "updated": 1787134972703
+}
