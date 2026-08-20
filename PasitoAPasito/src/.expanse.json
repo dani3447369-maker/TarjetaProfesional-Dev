@@ -190,7 +190,7 @@
       "order": 3.2351777157910777,
       "videoControls": {
         "loop": true,
-        "paused": false,
+        "paused": true,
         "positional": false,
         "volume": 1
       }
